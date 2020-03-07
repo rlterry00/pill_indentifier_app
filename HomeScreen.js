@@ -15,6 +15,7 @@ import {
   TouchableOpacity,
   ActivityIndicator
 } from "react-native";
+import { Camera } from 'expo-camera';
 
 export default class HomeScreen extends Component {
   constructor(props) {
